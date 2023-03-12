@@ -59,7 +59,7 @@ module.exports = {
       }));
 
       const embed = new EmbedBuilder()
-        .setColor("#0099ff")
+        .setColor("#d90429")
         .setTitle(`Top 5 heroes for player ${responsePlayer.data.profile.personaname}`)
         .setURL(
           `https://www.opendota.com/players/${responsePlayer.data.profile.account_id}`
