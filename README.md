@@ -6,3 +6,5 @@
 <li><b>/playerheroes</b>: Send embed with top 5 heroes of chosen player. Example: <img src='https://i.imgur.com/sH9ZBq0.png'></li>
 <br>
 <p>It's first version of bot with only 3 commands, but I plan to add more commands in future!</p>
+<h1>Instalation</h1>
+<p>Run <b><i>npm install</b></i> to have all dependencies -> Create config.json file with your ClientId, GuildId and token, to make bot workable. And of course firstly create your's bot on the official Discord dev page</p>
